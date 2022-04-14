@@ -20,8 +20,8 @@ clone this project
 
 ```
 composer install
-./n98-magerun2-4-x.phar --version # broken
-./n98-magerun2-3-x.phar --version # works
+./n98-magerun2-5.0.0.phar --version # broken
+./n98-magerun2-4.9.1.phar --version # works
 ```
 
 In more detail
