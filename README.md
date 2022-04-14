@@ -1,3 +1,5 @@
+https://github.com/netz98/n98-magerun2/issues/964
+
 The latest magerun v5 bundles in guzzle 7, magento uses guzzle 6
 
 So if I have a console command which has a dependency on guzzle, magerun is fully broken.
